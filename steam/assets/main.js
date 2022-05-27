@@ -1,0 +1,1 @@
+window.location.href = 'https://steamcommunity.com/id/mretcher/';
